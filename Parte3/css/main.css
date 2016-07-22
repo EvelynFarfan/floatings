@@ -1,0 +1,22 @@
+/* Pon tu código css aqui */
+.padre{
+	border: 1px solid #b1b1b1;
+}
+.yellow{
+	background-color: yellow;
+	float: right;
+	width: 25%;
+	height: 100px;
+}
+.cyan{
+	background-color: #3a81ba;
+	float: right;
+	width: 25%;
+	height: 100px;
+}
+.magenta{
+	background-color: #ed2251;
+	float: right;
+	width: 25%;
+	height: 100px;
+}

@@ -1,0 +1,25 @@
+.padre{
+	border: 1px solid #b1b1b1;
+
+}
+.clearfix{
+	overflow: auto;
+}
+.yellow{
+	background-color: yellow;
+	float: left;
+	width: 25%;
+	height: 100px;
+}
+.cyan{
+	background-color: #3a81ba;
+	float: left;
+	width: 25%;
+	height: 100px;
+}
+.magenta{
+	background-color: #ed2251;
+	float: left;
+	width: 25%;
+	height: 100px;
+}

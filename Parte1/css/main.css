@@ -1,0 +1,19 @@
+/* Pon tu código css aqui */
+.padre{
+	border: 1px solid #b1b1b1;
+}
+.yellow{
+	background-color: yellow;
+	width: 25%;
+	height: 100px;
+}
+.cyan{
+	background-color: #3a81ba;
+	width: 25%;
+	height: 100px;
+}
+.magenta{
+	background-color: #ed2251;
+	width: 25%;
+	height: 100px;
+}
